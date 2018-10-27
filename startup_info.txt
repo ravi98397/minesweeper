@@ -1,0 +1,5 @@
+visuals we need 10*10 table 
+some bombs 
+some numbers 
+some empty spaces 
+and flood fill algo
