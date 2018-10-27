@@ -1,5 +1,5 @@
 visuals we need 10*10 table 
-some bombs 
+some bombs  = when the bombs are the game ends and the ending page is shown
 some numbers 
 some empty spaces 
 and flood fill algo
