@@ -1,5 +1,7 @@
 visuals we need 10*10 table 
+
 some bombs  = when the bombs are the game ends and the ending page is shown
+some numbers  = this number has to be calculated in the background which represent the no of bomb around the perticular cell
 some numbers 
 some empty spaces 
 and flood fill algo
